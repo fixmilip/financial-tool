@@ -1,0 +1,10 @@
+Innovation Investment Calculator - Methodology
+
+This calculator uses validated industry data including:
+• Bureau of Labor Statistics wage data
+• Industry benchmark research  
+• Historical project data from 100+ implementations
+
+Core Formula: TOTAL = (DEVELOPMENT + GTM) × (1 + RISK_FACTOR)
+
+For complete methodology details, see the project README.
